@@ -1,10 +1,11 @@
 ### AnyKernel3 Ramdisk Mod Script
 ## osm0sis @ xda-developers
+## pratikkabra143 @ github
 
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=ReSukiSU community kernel builds by coolzyd9107 aka zhuzhuzihan aka huangdihd
+kernel.string=PIKASU kernel builds by pratikkabra143 aka insane aka pratik kabra
 do.devicecheck=0
 do.modules=0
 do.systemless=0
@@ -52,15 +53,3 @@ else
     flash_boot
 fi
 
-ui_print " "
-ui_print "Our Telegram Channel:"
-ui_print "https://t.me/ReSukiSUKernelBuilds"
-ui_print " "
-ui_print "GKI_KernelSU_SUSFS GitHub Repository:"
-ui_print "https://github.com/coolzyd9107/GKI_KernelSU_SUSFS"
-ui_print "GKI kernels with KernelSU and SUSFS."
-ui_print " "
-ui_print "OnePlus_KernelSU_SUSFS GitHub Repository:"
-ui_print "https://github.com/huangdihd/OnePlus_ReSukiSU_SUSFS"
-ui_print "OnePlus kernels with KernelSU and SUSFS."
-ui_print " "

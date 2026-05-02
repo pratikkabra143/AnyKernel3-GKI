@@ -1,1 +1,1 @@
-A fork of AnyKernel3.
+A fork of AnyKernel3 by osm0sis , modified by pratikkabra143
